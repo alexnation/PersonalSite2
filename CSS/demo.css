@@ -1,19 +1,25 @@
 
-header {background-color: red;
+header {
+	background-color: red;
+	float: right;
+	width: 100%;
 
 }
 
-section{background-color: blue;
-float; left;
-width: 60
+section {
+	background-color: blue;
+	float:left; 
+	width: 60%;
 }
 
-aside{background-color: green;
-	float;left;
-	width: 40
+aside{
+	background-color: green;
+	float:left;
+	width: 40%;
 }
 
-footer{background-color: yellow;
+footer{
+	background-color: yellow;
 }
 
 .filler{
@@ -23,5 +29,5 @@ footer{background-color: yellow;
 	padding: 10px;
 }
 .content{
-	height: 
+	height: 300px;
 }
